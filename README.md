@@ -19,7 +19,7 @@ If you find our work useful, please cite:
 
 ## CREDULE Dataset
 
-Download and unzip `data.zip`, ensuring the structure `data/CREDULE.csv` is maintained.
+Download and unzip `data/CREDULE.zip`, ensuring the structure `data/CREDULE.csv` is maintained.
 The CREDULE.csv comprises 91,644 samples and 18 columns. A sample can be seen below: 
 ```python
 {'id': 4,
